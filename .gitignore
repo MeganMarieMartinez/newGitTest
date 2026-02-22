@@ -1,0 +1,5 @@
+# this will be my example gitignore file
+
+
+# specifically ignoring this file
+untracked_example.txt
